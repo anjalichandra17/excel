@@ -10,7 +10,7 @@ Overall Sales Performance
 - Average Revenue per Order: ₹3,520.98
 - Average Delivery Time: 6 Days
 ## Revenue Breakdown
-*By Occasion:* Highest revenue is from Anniversary (₹6.75L), followed by Raksha Bandhan (₹6.32L) and Holi (₹5.86L).
+* By Occasion: * Highest revenue is from Anniversary (₹6.75L), followed by Raksha Bandhan (₹6.32L) and Holi (₹5.86L).
 *By Category:* The best-selling category is Colors (₹10.06L), followed by Soft Toys (₹7.41L) and Sweets (₹7.34L).
 *By Product:* The top product is Eius Gift (₹.86L), followed by Sed Pack (₹.67L) and Iure Gift (₹.52L).
 ## Sales Trends & Orders
